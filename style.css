@@ -1,0 +1,171 @@
+.background {
+	background-image: url("office.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 705px;
+}
+
+.cover{
+	width: 100%;
+	height: 105%;
+	background-color: rgba(33, 2, 2, 0.85);
+}
+
+.navbar-brand img{
+	width: 170px;
+	height: 140px;
+	padding-bottom: 50px
+}
+
+.content{
+	text-align: center;
+	padding-top: 140px;
+	color: white;
+}
+
+.content p{
+	font-size: 25px;
+
+}
+
+.text{
+	padding-top: 234px;
+	color: white;
+	padding-left: 100px;
+}
+
+.nav>li>a{
+	color: #e82913;
+	padding-top: 17px;
+    padding-right: 19px;
+    margin-top: 19px;
+}
+
+
+
+.font-awesome-4{
+	text-align: right;
+	padding-top: 193px;
+	color: #67d0c7;
+	padding-right: 50px;
+	word-spacing: 16px;
+}
+
+
+.test{
+	padding-top: 510px;
+}
+
+.font-awesome-4{
+	padding-top: 510px;
+	text-align: right;
+	color: #67d0c7;
+	padding-right: 50px;
+	word-spacing: 16px;
+	padding-right: 117px;
+}
+
+	
+}
+
+.input-group-addon {
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    background-color: rgba(19, 67, 195, 0.63);;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.row img{
+	width: 120px;
+	height: 110px;
+	border: 1px solid rgb(232, 231, 231);;
+}
+
+.cot img{
+	 width: 120px;
+    height: 40px;
+    margin-bottom: 30px;
+}
+
+.row{
+	padding-top: 14px;
+	padding-right: 13px;
+	padding-left: 58px;
+
+}
+
+.space {
+    position: relative;
+    min-height: 140px;
+    margin-bottom: 50px;
+    border: 1px solid transparent;
+    background-color: rgb(49, 4, 4);
+    }
+
+
+
+.move{
+	background-color: rgb(49, 4, 4);
+	color: white;
+	padding-top: 25px;
+	margin-top: 30px;
+	
+}
+
+
+
+.col-md-6 {
+    width: 50%;
+    padding-top: 16px;
+    padding-left: 99px;
+    
+}
+
+
+.input-group {
+	margin-right: 76px;
+	margin-left: 60px;
+}
+
+
+.font-awesome{
+	text-align: right;
+	color: #67d0c7;
+	padding-right: 50px;
+	word-spacing: 16px;
+	padding-right: 117px;
+	    padding-top: 236px;
+}
+
+.form-group {
+    padding-right: 220px;
+    padding-left: 237px;
+   }
+
+   .button{
+   	padding-right: 107px;
+   }
+
+   .but{
+   	margin-top: -14px;
+   	margin-bottom: 100px;
+   }
+
+
+  .mover {
+    background-color: rgb(49, 4, 4);
+    color: white;
+	padding-top: 25px;
+	margin-top: 30px;
+    }
+
+    .nav > li > a:hover, .nav > li > a:focus {
+    text-decoration: none;
+    background-color: transparent;
+    border: 1px solid;
+}
